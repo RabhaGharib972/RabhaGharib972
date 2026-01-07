@@ -47,7 +47,7 @@ I enjoy working with data at scale — from ingestion and streaming to processin
 Real-time pipeline ingesting data from multiple APIs and processing it using Kafka and Spark Structured Streaming.
 
 **Tech:** Kafka, Spark Streaming, PostgreSQL, HDFS  
-🔗 GitHub Repo: https://github.com/your-username/multisource-streaming-pipeline
+🔗 GitHub Repo: https://github.com/RabhaGharib972/Multi-Source-Real-Time-Data-Pipeline
 
 ---
 
@@ -55,7 +55,7 @@ Real-time pipeline ingesting data from multiple APIs and processing it using Kaf
 Streaming user data from APIs, processing events in real time, and storing structured outputs for analytics.
 
 **Tech:** Kafka, Spark, Python  
-🔗 GitHub Repo: https://github.com/your-username/realtime-user-pipeline
+🔗 GitHub Repo: https://github.com/RabhaGharib972/Real_Time_Data_Pipeline
 
 ---
 
@@ -63,8 +63,7 @@ Streaming user data from APIs, processing events in real time, and storing struc
 Batch processing pipeline to archive relational data into Parquet format on HDFS.
 
 **Tech:** PostgreSQL, Spark Batch, HDFS  
-🔗 GitHub Repo: https://github.com/your-username/batch-archival-pipeline
-
+🔗 GitHub Repo: https://github.com/RabhaGharib972/Batch_Archival_Pipeline
 ---
 
 ## 🤝 Let's Connect
@@ -75,6 +74,5 @@ Batch processing pipeline to archive relational data into Parquet format on HDFS
 ---
 
 ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
-
 
 
