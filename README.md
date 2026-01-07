@@ -64,6 +64,7 @@ Batch processing pipeline to archive relational data into Parquet format on HDFS
 
 **Tech:** PostgreSQL, Spark Batch, HDFS  
 🔗 GitHub Repo: https://github.com/RabhaGharib972/Batch_Archival_Pipeline
+
 ---
 
 ## 🤝 Let's Connect
