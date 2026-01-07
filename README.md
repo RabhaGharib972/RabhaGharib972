@@ -69,8 +69,8 @@ Batch processing pipeline to archive relational data into Parquet format on HDFS
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
-- 💻 GitHub: https://github.com/your-username
+- 💼 LinkedIn: https://www.linkedin.com/in/rabhagharib
+- 💻 GitHub: https://github.com/RabhaGharib972
 
 ---
 
