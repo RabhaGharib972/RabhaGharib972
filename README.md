@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rabha
 
-Data Engineering Graduate | Big Data Enthusiast | SQL & Python Lover
+Data Engineering  | Big Data Enthusiast | SQL & Python Lover
 
 I'm a Data Engineering graduate with hands-on experience in designing and building **end-to-end data pipelines** using modern big data technologies.  
 I enjoy working with data at scale — from ingestion and streaming to processing, storage, and analytics.
