@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Rabha
 
-Data Engineering  | Big Data Enthusiast | SQL & Python Lover
+Data Engineer | Big Data & Analytics | NTI Graduate
 
-I'm a Data Engineering graduate with hands-on experience in designing and building **end-to-end data pipelines** using modern big data technologies.  
-I enjoy working with data at scale — from ingestion and streaming to processing, storage, and analytics.
+Data Engineer with hands-on experience building batch and real-time data pipelines using Apache Spark, Kafka, and Airflow. Experienced in ETL/ELT development, data warehousing, and transforming raw data into analytics-ready datasets.
+
+Worked on streaming and batch projects involving Kafka ingestion, Spark processing, PostgreSQL, HDFS, and Parquet, delivering scalable data architectures that support BI and business reporting.
+
+Actively seeking Data Engineering roles focused on Big Data platforms, ETL pipelines, and cloud-based data solutions (AWS).
 
 ---
 # 💻 Tech Stack:
@@ -21,51 +24,75 @@ I enjoy working with data at scale — from ingestion and streaming to processin
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- SQL
-- Python
-
-**Big Data & Streaming**
-- Apache Kafka
-- Apache Spark (Batch & Structured Streaming)
-
-**Databases & Storage**
-- PostgreSQL
-- HDFS
-- Parquet
-
-**Cloud & Tools**
-- AWS (Basic Knowledge)
-- Git & GitHub
-- Linux
+**Programming & Data Processing**  
+Python (Pandas, PySpark)  
+SQL (Advanced Queries, Joins, Window Functions)
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Multi-Source Streaming Data Pipeline
-Real-time pipeline ingesting data from multiple APIs and processing it using Kafka and Spark Structured Streaming.
-
-**Tech:** Kafka, Spark Streaming, PostgreSQL, HDFS  
-🔗 GitHub Repo: https://github.com/RabhaGharib972/Multi-Source-Real-Time-Data-Pipeline
+**Big Data Frameworks**  
+Apache Hadoop (HDFS, YARN, MapReduce)  
+Apache Spark (Core, SQL, DataFrames, Structured Streaming)  
+Apache Hive
 
 ---
 
-### 🔹 Real-Time User Data Pipeline
-Streaming user data from APIs, processing events in real time, and storing structured outputs for analytics.
-
-**Tech:** Kafka, Spark, Python  
-🔗 GitHub Repo: https://github.com/RabhaGharib972/Real_Time_Data_Pipeline
+**Streaming & Messaging**  
+Apache Kafka  
+Apache Flink
 
 ---
 
-### 🔹 Batch Archival Data Pipeline
-Batch processing pipeline to archive relational data into Parquet format on HDFS.
-
-**Tech:** PostgreSQL, Spark Batch, HDFS  
-🔗 GitHub Repo: https://github.com/RabhaGharib972/Batch_Archival_Pipeline
+**Workflow & Orchestration**  
+Apache Airflow
 
 ---
+
+**Databases**  
+SQL Server  
+PostgreSQL  
+HBase
+
+---
+
+**Data Warehousing**  
+Data Warehouse Concepts  
+Dimensional Modeling (Star & Snowflake Schema)  
+Partitioning & Bucketing
+
+---
+
+**ETL / ELT & Data Pipelines**  
+Data Ingestion & Transformation  
+Batch & Streaming Pipelines  
+Data Quality & Validation
+
+---
+
+**BI & Visualization Tools**  
+Power BI  
+Tableau
+
+---
+
+**Storage & File Formats**  
+HDFS  
+Parquet, ORC
+
+---
+
+**Cloud (Basic Knowledge)**  
+AWS (S3 Basics)
+
+---
+
+**DevOps & Environment**  
+Docker (Basics)  
+Linux  
+Git & GitHub
+
+---
+
 
 ## 🤝 Let's Connect
 
