@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Rabha
 
-Data Engineer | Big Data & Analytics | NTI Graduate
+Data Engineer | Big Data & Analytics 
 
-Data Engineer with hands-on experience building batch and real-time data pipelines using Apache Spark, Kafka, and Airflow. Experienced in ETL/ELT development, data warehousing, and transforming raw data into analytics-ready datasets.
+Data Engineer passionate about Big Data, ETL pipelines, and analytics solutions. Experienced in building batch and real-time data pipelines using Spark, Kafka, Airflow, and SQL-based data warehousing technologies.
 
-Worked on streaming and batch projects involving Kafka ingestion, Spark processing, PostgreSQL, HDFS, and Parquet, delivering scalable data architectures that support BI and business reporting.
+Worked on projects involving data ingestion, streaming processing, ETL/ELT workflows, dimensional modeling, and BI reporting using tools such as SQL Server, SSIS, Power BI, PostgreSQL, HDFS, and Parquet.
 
-Actively seeking Data Engineering roles focused on Big Data platforms, ETL pipelines, and cloud-based data solutions (AWS).
+Interested in Data Engineering, cloud-based data platforms, and scalable analytics architectures using modern Big Data technologies and AWS services.
 
 ---
 # 💻 Tech Stack:
@@ -19,11 +19,10 @@ Actively seeking Data Engineering roles focused on Big Data platforms, ETL pipel
 ---
 ## 🚀 What I Do
 
-- Design and implement **Batch & Streaming Data Pipelines**
-- Work with **real-time data processing** and message brokers
-- Build data workflows for analytics and reporting
-- Apply data modeling and transformation best practices
-
+- Build scalable **Batch & Real-Time Data Pipelines** using modern Big Data technologies
+- Develop **ETL/ELT workflows** and streaming architectures for analytics-ready data
+- Work with distributed data processing tools like **Spark, Kafka, Airflow, and SQL-based DWH systems**
+- Design data models, transformation pipelines, and BI-ready datasets for reporting and analytics
 ---
 
 ## 🛠️ Tech Stack
@@ -86,12 +85,12 @@ Parquet, ORC
 ---
 
 **Cloud (Basic Knowledge)**  
-AWS (S3 Basics)
+AWS (S3, Glue, EMR, Redshift, EC2), Databricks, Microsoft Fabric
 
 ---
 
 **DevOps & Environment**  
-Docker (Basics)  
+Docker   
 Linux  
 Git & GitHub
 
